@@ -15,17 +15,17 @@ _I am open to new opportunities/contributions._
 
 ## 🔎 You can find me on:
 
-<a href="mailto:anderns0002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuyasano0093)
+<a href="mailto:anderns0093@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saito-satoru/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersn0093)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://yuyasano.vercel.app/)
 
 ## 🔖 Featured repositories:
 
-[![AI Full-Stack Engineer](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=andersn0002)](https://github.com/andersn0002/andersn0002)
-[![CodeAntAI](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=CodeAntAI)](https://github.com/andersn0002/CodeAntAI)
-[![mercurjs](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=mercurjs)](https://github.com/andersn0002/mercurjs)
-[![aio-proxy](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=aio-proxy)](https://github.com/andersn0002/aio-proxy)
+[![AI Full-Stack Engineer](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=saito0093)](https://github.com/saito0093/saito0093)
+[![CodeAntAI](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=CodeAntAI)](https://github.com/saito0093/CodeAntAI)
+[![mercurjs](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=mercurjs)](https://github.com/saito0093/mercurjs)
+[![aio-proxy](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=aio-proxy)](https://github.com/saito0093/aio-proxy)
 
 ---
 
@@ -152,7 +152,7 @@ Big believer in:
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andersn0002&theme=radical&layout=compact) |
+| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saito0093&theme=radical&layout=compact) |
 
 <!--   profile-green-animate -->
 
@@ -189,7 +189,8 @@ graph TD;
 <p align="center"><strong>Connect With Us</strong></p>
 
 <a href="mailto:anderns0002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuyasano0093)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuyasano0093) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saito-satoru/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersn0093)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://yuyasano.vercel.app/)
 
