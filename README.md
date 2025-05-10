@@ -23,8 +23,9 @@ _I am open to new opportunities/contributions._
 ## 🔖 Featured repositories:
 
 [![CodeAntAI](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=CodeAntAI)](https://github.com/saito0093/CodeAntAI)
-[![mercurjs](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=mercujs)](https://github.com/saito0093/mercujs)
-[![aio-proxy](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=Aio)](https://github.com/saito0093/Aio)
+[![mercujs](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=mercujs)](https://github.com/saito0093/mercujs)
+[![Aio](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=Aio)](https://github.com/saito0093/Aio)
+[![aiana-chatbot-saas](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=aiana-chatbot-saas)](https://github.com/saito0093/aiana-chatbot-saas)
 
 ---
 
