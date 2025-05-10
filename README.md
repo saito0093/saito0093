@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Yuya (Anders).
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Saito (Anders).
 
 I am 🧙 Lead AI Full-Stack Software Engineer and 🏆 Open Source lover
 
@@ -18,7 +18,7 @@ _I am open to new opportunities/contributions._
 <a href="mailto:anderns0093@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saito-satoru/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersn0093)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://yuyasano.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://saito-satoru.vercel.app/)
 
 ## 🔖 Featured repositories:
 
@@ -41,7 +41,7 @@ Highlights:
 - ⭐ 9+ years of professional experience in full lifecycle development
 - ⭐ 6+ years of senior AI Full-Stack software engineer
 - ⭐ Delivered over 20 projects
-- ⭐ Worked with over 6 companies from startup to enterprise level
+- ⭐ Worked with over 5 companies from startup to enterprise level
 - ⭐ Mentoring over 20 individuals on how to grow their technical and leadership skills
 - ⭐ Worked on innovative and cutting-edge projects
 - ⭐ Contribute to open source and private source
@@ -49,6 +49,7 @@ Highlights:
 
 Proficiencies:
 
+- 📚 AI, ML, NLP, LLM, OpenAI, GenSparkAI, VectorDB
 - 📚 JavaScript, TypeScript, Python, Django, FastAPI, Node.js with Serverless and Containers and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
@@ -146,7 +147,7 @@ Big believer in:
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![saito's github activity graph](https://raw.githubusercontent.com/saito0093/saito0093/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
