@@ -140,13 +140,6 @@ Big believer in:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) -->
 
 ---
-
-<!--   stats + languages -->
-
-| .                                                                                                                                                 | .                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saito0093&theme=radical&layout=compact) |
-
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
