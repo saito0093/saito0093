@@ -22,7 +22,6 @@ _I am open to new opportunities/contributions._
 
 ## 🔖 Featured repositories:
 
-[![AI Full-Stack Engineer](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=saito0093)](https://github.com/saito0093/saito0093)
 [![CodeAntAI](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=CodeAntAI)](https://github.com/saito0093/CodeAntAI)
 [![mercurjs](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=mercurjs)](https://github.com/saito0093/mercurjs)
 [![aio-proxy](https://github-readme-stats.vercel.app/api/pin/?username=saito0093&repo=aio-proxy)](https://github.com/saito0093/aio-proxy)
@@ -141,14 +140,6 @@ Big believer in:
 
 ---
 
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-
-![saito's github activity graph](https://raw.githubusercontent.com/saito0093/saito0093/output/github-contribution-grid-snake.svg)
-
 <!--   stats + languages -->
 
 | .                                                                                                                                                 | .                                                                                                                              |
@@ -158,8 +149,6 @@ Big believer in:
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
